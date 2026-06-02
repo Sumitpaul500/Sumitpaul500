@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumitpaul500/Sumitpaul500/main/WhatsApp%20Image%202026-06-02%20at%2011.48.37%20AM.jpeg" width="35%" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on Java, Python, and Web Development projects, focusing on building practical applications that solve real-world problems.<br><br>
